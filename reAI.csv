@@ -1,0 +1,6 @@
+study,treatment,mean,std.dev,sampleSize
+ZhangX,AI0,0,1,100
+ZhangX,AI1,1,1,100
+ZhangX,AI2,2,1,100
+ZhangX,AI3,3,1,100
+ZhangX,AI4,4,1,100
